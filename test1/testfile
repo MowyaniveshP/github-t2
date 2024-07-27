@@ -25,6 +25,8 @@ branch commands
 -stash
 -push ✅
 -publish ✅
+-incoming -> changes from remote ✅
+-outgoing -> changes in local yet to be pushed ✅
 -force push
 
 -merge
