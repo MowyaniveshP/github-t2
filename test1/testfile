@@ -1,0 +1,19 @@
+git
+-version c
+
+repo
+-private
+-public
+
+master/main -> latest production code
+
+branches -> versions of code
+
+branch commands
+git init
+stage
+-fetch
+-pull
+-commit
+-push
+-force push
