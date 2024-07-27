@@ -27,6 +27,7 @@ branch commands
 -publish ✅
 -incoming -> changes from remote ✅
 -outgoing -> changes in local yet to be pushed ✅
+-sync -> pull remote, resolve conflict(if any) then push ✅
 -force push
 
 -merge
