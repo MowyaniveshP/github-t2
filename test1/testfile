@@ -19,8 +19,8 @@ branch commands
 -clone ✅
 -stage, unstage ✅
 - move changes ✅
--fetch
--pull
+-fetch ✅
+-pull ✅
 -commit ✅
 -stash
 -push ✅
