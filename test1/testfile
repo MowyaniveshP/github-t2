@@ -9,11 +9,17 @@ master/main -> latest production code
 
 branches -> versions of code
 
+U -> untracked
+A -> file added
+D -> file deleted
+M -> modified
+
 branch commands
-git init
-stage
+git init ✅
+stage, unstage ✅
 -fetch
 -pull
 -commit
+-stash
 -push
 -force push
