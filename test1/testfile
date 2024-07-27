@@ -16,13 +16,21 @@ M -> modified
 
 branch commands
 git init ✅
+clone
 stage, unstage ✅
 -fetch
 -pull
--commit
+-commit ✅
 -stash
 -push
 -publish ✅
 -force push
+
+merge
+rebase
+
+pull requests
+code review
+main merge
 
 whitespace diff
