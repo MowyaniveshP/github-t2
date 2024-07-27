@@ -15,22 +15,23 @@ D -> file deleted
 M -> modified
 
 branch commands
-git init ✅
-clone
-stage, unstage ✅
+-init ✅
+-clone ✅
+-stage, unstage ✅
+- move changes ✅
 -fetch
 -pull
 -commit ✅
 -stash
--push
+-push ✅
 -publish ✅
 -force push
 
-merge
-rebase
+-merge
+-rebase
 
-pull requests
-code review
-main merge
+-pull requests
+-code review
+-main merge
 
-whitespace difference
+-whitespace difference
